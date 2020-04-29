@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>GlobalizationClock</RootNamespace>
+    <Authors>欧俊</Authors>
+    <Version>0.0.2</Version>
+    <PackageProjectUrl>https://github.com/ojdev/Globalization.Clock</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ojdev/Globalization.Clock</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
